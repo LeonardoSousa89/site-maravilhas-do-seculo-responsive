@@ -1,0 +1,25 @@
+.conteinerSobre{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.card{
+    border: 1px solid whitesmoke; /*retirar as bordas ao preencher o conteúdo*/
+    height: 33em;
+}
+.titulo ,.conteudo, .consideracao{
+    padding:1%;
+}
+@media(max-width:700px){
+
+}
+
+@media(max-width:600px){
+    
+}
+
+@media(max-width:500px){
+    
+}
